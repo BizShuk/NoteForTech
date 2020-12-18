@@ -14,3 +14,10 @@
 
 ### Cancel password prompt
 `core.askPass = `
+
+
+### store credential
+`git config credential.helper store`. Once enter username/password for particular domain. It'll be stored in `~/.git-credential`
+
+Format:
+`https://<username>:password>@domain.com`
