@@ -1,8 +1,13 @@
 # VS code note
 
 
-### Mac developing toole
+### Mac development tools
 `xcode-select --install`
+
+
+### Windows development tools
+`npm install -g windows-build-tools` for node-gyp
+
 
 ### Embed gitbash into VScode
 Open `Open Settings(JSON)` and put below. git-bash will pop up out of the frame. Using
@@ -10,14 +15,12 @@ bash.exe which is under bin folder inside git.
 
 `terminal.integrated.shell.windows="/path/to/git/bash.exe"`.
 
+
+### Recommanded Setting
+check here [Settings.json](./VScode_Settings.json)
+
 ### Keyboard binding
 
 ##### toggle size of terminal and editor
-Open `Open Keyboard Shortcut` and put below
-```
-    { "key": "ctrl+alt+m", "command": "workbench.action.toggleMaximizedPanel",      "when": "!terminalFocus" },
-    { "key": "ctrl+`",     "command": "-workbench.action.terminal.toggleTerminal",  "when": "!terminalFocus" },
-    { "key": "ctrl+alt+m", "command": "workbench.action.terminal.toggleTerminal",   "when": "terminalFocus" },
-    { "key": "ctrl+left",  "command": "workbench.action.navigateBack"       },
-    { "key": "ctrl+right", "command": "workbench.action.navigateForward"    }
-```
+Open `Open Keyboard Shortcut` and copy-paster from [KeyboardBinding](./VScode_KeyBoardBinding.json)
+

@@ -1,0 +1,5 @@
+package.json
+__debug_bin
+main.go
+.vscode/launch.json
+test.js

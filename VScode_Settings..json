@@ -1,0 +1,100 @@
+{
+    // editor
+    "editor.fontSize": 14,
+    "editor.formatOnSave": false,
+    
+    // explorer
+    "explorer.confirmDelete": false,
+    "explorer.confirmDragAndDrop": false,
+
+    // windows
+    "window.zoomLevel": 0,
+    "window.openFoldersInNewWindow": "on",
+
+    // git 
+    "git.autorefresh": false,
+    "git.fetchOnPull": true,
+    "git.autoStash": true,
+    "git.enableSmartCommit": true,
+    // TODO: check fetch period
+    "git.autofetch": true,
+    
+    // termial
+    //"terminal.integrated.shell.windows": "/path/to/bash.exe not git-bash.exe",
+    
+    // workbench
+    "workbench.iconTheme": "material-icon-theme",
+
+    // file
+    "files.exclude": {
+        "**/.git": true,
+        "**/.svn": true,
+        "**/.hg": true,
+        "**/CVS": true,
+        "**/.DS_Store": true,
+        "**/*_test.go": true,
+        "**/node_modules": true,
+        "**/.bin/": true,
+        "**/.devops/": true,
+        "**/.gitlab/": true,
+        "**/cypress/": true
+    },
+
+    // diff
+    "diffEditor.ignoreTrimWhitespace": true,
+
+
+
+
+    // gitlens
+    "gitlens.advanced.messages": {
+        "suppressGitDisabledWarning": true
+    },
+
+    // go
+    "go.useLanguageServer": true,
+    "go.coverOnSingleTest": true,
+    "go.coverOnSingleTestFile": true,
+    "go.lintOnSave": "file",
+    "[go]": {
+        "editor.insertSpaces": false,
+        "editor.formatOnSave": true,
+        "editor.codeActionsOnSave": {
+            "source.fixAll": false,
+            "source.organizeImports": true
+        }
+    },
+    "go.toolsGopath": "/Users/shuk.liu/project/go",
+
+    // npm
+    "npm.runInTerminal": true, // prevent run server on output, can't terminate the process
+
+    // run and debug
+    "launch": {
+        "configurations": [
+            {
+                "name": "Launch single node file",
+                "type": "node",
+                "request": "launch",
+                "program": "${file}"
+            },
+            {
+                "name": "Debug go project",
+                "type": "go",
+                "request": "launch",
+                "mode": "debug",
+                "program": "${workspaceFolder}"
+            },
+            {
+                "type": "chrome",
+                "request": "launch",
+                "name": "Launch Chrome against localhost",
+                "url": "http://localhost",
+                "webRoot": "${workspaceFolder}",
+                "port": 3000,
+            }
+        ],
+        "compounds": []
+    }
+
+}

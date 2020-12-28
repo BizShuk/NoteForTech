@@ -11,3 +11,7 @@ or
 
 ### run hooks
 `pre-commit run --all-files` or just give a git commit
+
+
+### pre-commit config yaml
+ref: [.pre-commit-config.yaml](Git_Precommit_config.yaml)
