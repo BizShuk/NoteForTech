@@ -24,3 +24,7 @@
 
 Format:
 `https://<username>:password>@domain.com`
+
+
+### push
+push.default=[nothin,current,upstream,matching]
