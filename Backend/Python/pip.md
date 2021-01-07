@@ -9,6 +9,11 @@ almost equal
 `pip install --upgrade --user setuptools`
 `pip install --upgrade --user cookiecutter`
 
+## pip.ini
+#### window
+- C:\Users\tliu\AppData\Roaming\pip\pip.ini
+#### linux
+
 ## environment variables
 
 - `PYTHONPATH`, for Python to lookup modules. Usually, it looks for `site-packages` folder.
@@ -16,3 +21,11 @@ Example: `export PYTHONPATH="/e/writable/Python38/site-packages:/c/Program\ File
 
 - `PYTHONUSERBASE`, if `--uesr` is given, it will look given folder to install modules.
 Example: `export PYTHONUSERBASE="E:\\wirtable"`, it will install modules into `E:\writable\Python38\Scripts` and `E:\writable\Python38\site-packages`(later one can be specified in to PYTHONPATH ahead)
+
+- `PYTHONHOME`
+
+## ???
+--prefix
+--target
+--install-option
+--target
