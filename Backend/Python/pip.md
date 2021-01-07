@@ -1,11 +1,18 @@
 # PIP
 
-## How to install with pip
+## How to install with pip and modules to use
 
 `pip install --install-option="--prefix='E:\\writable\\pip'"` .
 almost equal
 `python setup.py install --prefix=E:\\writable\\pip`
 
+`pip install --upgrade --user setuptools`
+`pip install --upgrade --user cookiecutter`
+
 ## environment variables
 
-`PYTHONPATH` is an environment variable which you can set to add additional directories where python will look for modules and packages. For most installations, you should not set these variables since they are not needed for Python to run. Python knows where to find its standard library.
+- `PYTHONPATH`, for Python to lookup modules. Usually, it looks for `site-packages` folder.
+Example: `export PYTHONPATH="/e/writable/Python38/site-packages:/c/Program\ Files/Python38/Lib/site-packages:/c/Users/tliu/AppData/Roaming/Python/Python38/site-packages"
+
+- `PYTHONUSERBASE`, if `--uesr` is given, it will look given folder to install modules.
+Example: `export PYTHONUSERBASE="E:\\wirtable"`, it will install modules into `E:\writable\Python38\Scripts` and `E:\writable\Python38\site-packages`(later one can be specified in to PYTHONPATH ahead)
