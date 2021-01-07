@@ -10,8 +10,11 @@ almost equal
 `pip install --upgrade --user cookiecutter`
 
 ## pip.ini
+
 #### window
+
 - C:\Users\tliu\AppData\Roaming\pip\pip.ini
+
 #### linux
 
 ## environment variables
@@ -25,6 +28,7 @@ Example: `export PYTHONUSERBASE="E:\\wirtable"`, it will install modules into `E
 - `PYTHONHOME`
 
 ## ???
+
 --prefix
 --target
 --install-option
