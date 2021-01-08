@@ -11,6 +11,12 @@ almost equal
 
 ## pip.ini
 
+location:
+
+- Unix: `~/.config/pip/pip.ini`
+- Mac: `${HOME}/Library/Application Support/pip/pip.ini`
+- Windows: `%APPDATA%/pip/pip.ini`
+
 #### window
 
 - C:\Users\tliu\AppData\Roaming\pip\pip.ini
