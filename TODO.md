@@ -3,21 +3,28 @@
 ### pending
 
 - fd redirection, and sample in NoteForTech
-- frontend sample project
+- gitlab-ci
+-
+- EDOP gitlab go through
+- project devops process check
 - training session
 - smarty street
-- gitlab-ci
-- project devops process check
+-
+- react testing lib (react document, redux document, jest document)
+- frontend sample project
+-
+- generic elasticsearch repository
+-
 - http server for chc
-- react testing lib
-- elasticsearch
-- EDOP gitlab go through
+-
+- CIH-utils
+-
+- Story check
 
 ### Application big topic
 
 - Apgee Authentication and Authorization
 - Data Authorization
-- generic elasticsearch
 
 ### Personal
 
