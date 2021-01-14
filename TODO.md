@@ -1,33 +1,35 @@
 # TODO
 
+### Should be working on
+
+> - smarty street
+
 ### pending
 
 - fd redirection, and sample in NoteForTech
 - gitlab-ci
--
 - EDOP gitlab go through
 - project devops process check
 - training session
-- smarty street
--
 - react testing lib (react document, redux document, jest document)
-- frontend sample project
--
-- generic elasticsearch repository
--
 - http server for chc
--
-- CIH-utils
--
-- Story check
 
 ### Application big topic
 
 - Apgee Authentication and Authorization
 - Data Authorization
+- Generic elasticsearch repository
+
+- AccessControl
+  - Attribute-based
+  - Discretionary
+  - Mandatory
+  - Role-based
 
 ### Personal
 
+- Frontend sample project
+- CIH-utils
 - AWS SA-professional
 - Property management
 - Network p2p monitoring

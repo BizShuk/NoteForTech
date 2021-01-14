@@ -1,12 +1,7 @@
-# CHC People
+# People
+
+- Benjamin Smith, Program Manage EPM  IHP-Paas
 
 - David Roso? CHC Enterprise Architect
-- Louis, Program manager
+-
 - Mark, Priciple Engineer as Developer here for AWS pick up
-
-### Knowing
-
-- Jack
-- Stephen
-- Steven
-- Andrew
