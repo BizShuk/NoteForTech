@@ -10,6 +10,8 @@
 
 ### Go tools
 
+- gofumpt
+
 ### cookiecutter
 
 ###
