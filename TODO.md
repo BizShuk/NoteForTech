@@ -1,18 +1,19 @@
 # TODO
 
+## Today
+
 ### Should be working on
 
 > - smarty street
 
 ### pending
 
-- fd redirection, and sample in NoteForTech
 - gitlab-ci
 - EDOP gitlab go through
 - project devops process check
 - training session
 - react testing lib (react document, redux document, jest document)
-- http server for chc
+- feature flag
 
 ### Application big topic
 
@@ -37,3 +38,7 @@
 ### NOTE
 
 - SOLID, in SoftwareEngineer/SOLID.md
+
+### book
+
+- Enterprise Integration Pattern

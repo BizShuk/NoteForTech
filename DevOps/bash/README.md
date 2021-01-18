@@ -1,7 +1,4 @@
 # Bash
 
-<https://linuxhint.com/bash_shell_brace_parameter_expansion>
-
-## Parameter Expansion
-
-<https://www.gnu.org/software/bash/manual/html_node/Shell-Parameter-Expansion.html>
+[Bash Reference Manual](https://www.gnu.org/software/bash/manual/html_node/index.html)
+[Advanced Bash-Scripting Guide](https://tldp.org/LDP/abs/html/index.html)
