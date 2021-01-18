@@ -21,6 +21,8 @@ Cons:
 
 ## decouple and defer source loader
 
+Called `Visitor Pattern` or `Double Dispatch`
+
 Create a source loader function and pass it to property constructor
 
 When constructor read from the io.reader(inside function), in the end of function, it also close the file.
