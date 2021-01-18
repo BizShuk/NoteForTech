@@ -33,6 +33,12 @@ Pros:
 - No memory ahead
 - No potential file opening leak
 
+Patterns:
+
+- factory factory to generate property handler
+- strategy patten in each handler
+- visitor pattern to load file
+
 ## Enhance defer feature
 
 Let file close do in async backgroup
