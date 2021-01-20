@@ -8,6 +8,7 @@
 
 ### pending
 
+- event model
 - gitlab-ci
 - EDOP gitlab go through
 - project devops process check
@@ -25,7 +26,6 @@
   - Attribute-based
   - Discretionary
   - Mandatory
-  - Role-based
 
 ### Personal
 
