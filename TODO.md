@@ -19,6 +19,12 @@
 
 ### Documneting
 
+### Question
+
+- PHI, if only address is present without human identifier, it is PHI data?
+
+### pending
+
 - event model
 
 ### pending
