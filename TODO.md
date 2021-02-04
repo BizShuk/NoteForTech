@@ -6,20 +6,17 @@
 - Hiding
 - manage people, work shardly and shard knowledge
 
-## Today
+### CHC
 
-- 確認story
-- function pool
+- create rescope story
+- scrum of scrum
+- review meeting
+- documenting my story
+- smarty street
 - SmartyStreet MR submission
 - SmartyStreet API Product confirm with Stephen and Nathon
-
-### Should be working on
-
-> - smarty street
-
-### Documneting
-
-- event model
+- Generic elasticsearch repository
+- pingone IIQ integrated with system?
 
 ### pending
 
@@ -42,7 +39,6 @@
 
 - Apgee Authentication and Authorization
 - Data Authorization
-- Generic elasticsearch repository
 - POSIX
 - NFSv4
 
@@ -58,16 +54,13 @@
 <https://cheatsheetseries.owasp.org/index.html>
 <https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/7/html-single/performance_tuning_guide/index#chap-Red_Hat_Enterprise_Linux-Performance_Tuning_Guide-Performance_Monitoring_Tools>
 
-### Personal
+### documenting
 
 - Frontend sample project
 - CIH-utils
 - AWS SA-professional
 - Property management
 - Network p2p monitoring
-
-### NOTE
-
 - SOLID, in SoftwareEngineer/SOLID.md
 
 ### book
