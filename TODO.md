@@ -10,11 +10,14 @@
 
 - create rescope story
 - scrum of scrum
-- review meeting
 - documenting my story
+-
+- review meeting
+-
 - smarty street
 - SmartyStreet MR submission
 - SmartyStreet API Product confirm with Stephen and Nathon
+-
 - Generic elasticsearch repository
 - pingone IIQ integrated with system?
 
