@@ -3,3 +3,6 @@ __debug_bin
 main.go
 .vscode/launch.json
 test.js
+**/node_modules/
+.DS_Store
+tmp/

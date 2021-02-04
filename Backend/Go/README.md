@@ -51,3 +51,7 @@ However, if there is error interface(Error method) implement. error interface ha
 [Repo](https://github.com/eliben/modlib)
 
 <https://github.com/golang-standards/project-layout>
+
+## method goroutine
+
+<https://stackoverflow.com/questions/36121984/how-to-use-a-method-as-a-goroutine-function>

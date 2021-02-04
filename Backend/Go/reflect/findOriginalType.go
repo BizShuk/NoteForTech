@@ -12,15 +12,11 @@ func main() {
 }
 
 func tryTypeOf() {
-	var t func(a string)
-
-	t = func(a string) {
+	var t func(a string) = func(a string) {
 		fmt.Println("test")
 	}
 
-	var i interface{}
-
-	i = t
+	var i interface{} = t
 
 	tp := reflect.TypeOf(i)
 	fmt.Println("TypeOf:", tp)
@@ -28,15 +24,11 @@ func tryTypeOf() {
 }
 
 func tryValueOf() {
-	var t func(a string)
-
-	t = func(a string) {
+	var t func(a string) = func(a string) {
 		fmt.Println("test")
 	}
 
-	var i interface{}
-
-	i = t
+	var i interface{} = t
 
 	tp := reflect.ValueOf(i)
 	fmt.Println("TypeOf:", tp)
@@ -45,9 +37,7 @@ func tryValueOf() {
 
 func tryValueOfInstance() {
 	var t string = "original"
-	var i interface{}
-
-	i = t
+	var i interface{} = t
 
 	tp := reflect.ValueOf(&i).Elem()
 	t = "new"
