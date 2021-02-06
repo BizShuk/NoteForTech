@@ -4,6 +4,16 @@
 
 - Stretch Goal
 
+### Sample
+
+- Documeting
+- UAT
+- Complete feature
+- External team able to retrieve data
+- External team able to run test
+
+-
+
 ## How to break down stories?
 
 ### Design
@@ -14,7 +24,7 @@
 
 ### Tech
 
-- Configure class
+- Configuration (class, IAM, kreinto, LDAP, linux,...)
 - API
 - Controller
 - Service
