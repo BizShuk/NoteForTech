@@ -6,10 +6,9 @@
 - Hiding
 - manage people, work shardly and shard knowledge
 
-### CHC
+### work
 
 - create rescope story
-- scrum of scrum
 - documenting my story
 -
 - review meeting
@@ -19,14 +18,12 @@
 - SmartyStreet API Product confirm with Stephen and Nathon
 -
 - Generic elasticsearch repository
+
+### pending work knowledge
+
 - pingone IIQ integrated with system?
-
-### pending
-
-- gitlab-ci
 - EDOP gitlab go through
 - project devops process check
-- training session
 - react testing lib (react document, redux document, jest document)
 - feature flag
 
@@ -62,10 +59,8 @@
 - Frontend sample project
 - CIH-utils
 - AWS SA-professional
-- Property management
-- Network p2p monitoring
 - SOLID, in SoftwareEngineer/SOLID.md
 
-### book
+### Readings
 
 - Enterprise Integration Pattern
