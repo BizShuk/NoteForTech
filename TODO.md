@@ -2,42 +2,15 @@
 
 ## Chinese New Year
 
-- 買ssd usb type-c 硬碟
 - Canada Work and Travel program
+- ElasticSearch server測試
 - SmartStreet API product
+-
 - project, golang viper + networkmonitoring
 
-### work
-
-- create rescope story
-- documenting my story
--
-- review meeting
--
-- smarty street
-- SmartyStreet MR submission
-- SmartyStreet API Product confirm with Stephen and Nathon
--
-- Generic elasticsearch repository
-
-### pending work knowledge
-
-- pingone IIQ integrated with system?
-- EDOP gitlab go through
-- project devops process check
-- react testing lib (react document, redux document, jest document)
-- feature flag
-
-- AWS Config
-- AWS Glue
-- AWS Athena
-- AWS Organization
-- AWS Service Catalog
-- AWS Control Tower
-- aws Directory Service
-- <https://docs.aws.amazon.com/AWSSimpleQueueService/latest/SQSDeveloperGuide/sqs-temporary-queues.html#request-reply-messaging-pattern>
-- <https://aws.amazon.com/tw/blogs/architecture/exponential-backoff-and-jitter/>
-- <https://d1.awsstatic.com/whitepapers/aws-tagging-best-practices.pdf>
+- 空氣瓶子上拍賣
+- 領掛號信
+- 掛號超音波穿刺結果
 
 ### Application big topic
 
@@ -65,7 +38,7 @@
 - AWS SA-professional
 - SOLID, in SoftwareEngineer/SOLID.md
 
-# Reading
+## Reading
 
 - Enterprise Integration Pattern
 
@@ -81,7 +54,7 @@
 - [Immediately Invoked Function Expression](http://benalman.com/news/2010/11/immediately-invoked-function-expression/)
 - [Goodbye Object-Oriented](https://medium.com/@cscalfani/goodbye-object-oriented-programming-a59cda4c0e53#.9adp7k2g3)
 - [Project Scope](http://searchcio.techtarget.com/definition/project-scope)
-  + [SOW , state of work](http://www.tutorialspoint.com/management_concepts/statement_of_work.htm)
+  - [SOW , state of work](http://www.tutorialspoint.com/management_concepts/statement_of_work.htm)
 - [Inversion of Control]
 - [Dependency Injection]
 - What is business development manager?

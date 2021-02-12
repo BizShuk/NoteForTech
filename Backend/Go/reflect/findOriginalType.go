@@ -42,5 +42,5 @@ func tryValueOfInstance() {
 	tp := reflect.ValueOf(&i).Elem()
 	t = "new"
 	fmt.Println(i, t, tp)
-	// TODO: how to set on reflect ValueOf
+	// TODO: [TODO] how to set on reflect ValueOf
 }
