@@ -3,8 +3,10 @@
 ## Chinese New Year
 
 - Canada Work and Travel program
-- ElasticSearch server測試
+- [up and running] ElasticSearch server測試
+- 備份google drive
 - SmartStreet API product
+-
 -
 - project, golang viper + networkmonitoring
 
