@@ -3,7 +3,7 @@
 ## Chinese New Year
 
 - Canada Work and Travel program
-- [up and running] ElasticSearch server測試
+
 - 備份google drive
 - SmartStreet API product
 -
@@ -13,6 +13,13 @@
 - 空氣瓶子上拍賣
 - 領掛號信
 - 掛號超音波穿刺結果
+
+### Testing
+
+- [setup] Artifactory
+- [setup] Confluence page
+- [setup] Jira
+- [up and running] ElasticSearch server測試
 
 ### Application big topic
 
