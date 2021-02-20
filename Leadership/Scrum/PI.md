@@ -9,25 +9,11 @@ Business Requirement
 ## PI Planning
 
 1. Leadership, Leadership
-2. Product Manager, Business Owner and Product Owner
-
-   features creating and prioritize
-
-3. Product Owner, Scrum Master
-
-   create user stories
-
-4. Dev Teams, Scrum Master
-
-   give story points and create objective/catagory based on stories
-
-5. Scrum Masters, Leadership
-
-   complete PI spreadsheet
-
-6. All, Leadership
-
-   readouts
+2. Product Manager, Business Owner and Product Owner : features creating and prioritize
+3. Product Owner, Scrum Master : create user stories
+4. Dev Teams, Scrum Master : give story points and create objective/catagory based on stories
+5. Scrum Masters, Leadership : complete PI spreadsheet
+6. All, Leadership : readouts
 
 ### Talking Points
 
@@ -49,3 +35,28 @@ It's a fun part. Given a conceptual idea and submit by team member. ex: From Gre
 
 - Daedalus
 - Eros
+
+## Meetings
+
+### PI Preview
+
+Time: should be  one week before PI Planning  
+Attendee: Product Manager, Product Owner
+
+Wish to has priority between EPIC  
+Try to choose at least one epic and few backups which will be decided during PI Planning
+
+### PI Planning
+
+Time: Middle of last PI Sprint 4  
+
+Attendee: Team leaders, Product Manager, Product Owner, Scrum Master, Program Manager
+
+Go through EPICs and break down EPICs to stories
+
+### PI Readout
+
+Time: 1 ~ 3 days after PI Planning  
+Attendee: Team Leaders, Product Manager, Product Owner, Scrum Master, Program Manager
+
+Puting break-down stories into 4 sprints in next PI and filling PI spreadsheet
