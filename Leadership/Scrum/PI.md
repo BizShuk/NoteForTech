@@ -60,3 +60,7 @@ Time: 1 ~ 3 days after PI Planning
 Attendee: Team Leaders, Product Manager, Product Owner, Scrum Master, Program Manager
 
 Puting break-down stories into 4 sprints in next PI and filling PI spreadsheet
+
+## Issue
+
+When PI planning is hosted and PM is showing epics around, no one have ideas about who goona get certain epic. Specially for offshore team, it's quite hard to identify what they want whether it overlap with other onshore team. evne with priority on those epics.
