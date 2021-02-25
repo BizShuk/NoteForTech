@@ -1,31 +1,27 @@
 # Thing to be done
 
+- PingID by Jean
+- mural + epic analysis
+- story拆解guideline
+- golang transport
+
 ## SOS
 
-- story拆解guideline
-- planning
-
-- golang transport
-- mural + epic analysis
-- ask for whether others need help
 - discussion about gitlab, EDOP CI/CD pipeline with Jack
-- gitlab permission
-
 - Tasks ask
   - pick up from backlog
-  - any assistance required
+  - any assistance required - ask for whether others need help
 - [Jeffrey] two test and review
-- EDOP FOD
-- EDOP pipeline: Goprivate change on EDOP CI/CD process
 - EPIC selection
-
--
+- gitlab permission
 
 ## back up stories
 
 - 2372 Implement PHIzer for manage-acceptedinsurances
 - 2375 Implement PHIzer for manager-pat-prov-aggregator
 - any help?
+- EDOP FOD
+- EDOP pipeline: Goprivate change on EDOP CI/CD process
 
 # long term
 
