@@ -1,8 +1,37 @@
 # Thing to be done
 
-## work
+## SOS
 
-- SmartStreet API product
+- mural + epic analysis
+- ask for whether others need help
+- discussion about gitlab, EDOP CI/CD pipeline with Jack
+- gitlab permission
+
+- Tasks ask
+  - pick up from backlog
+  - any assistance required
+- [Jeffrey] two test and review
+- EDOP FOD
+- EDOP pipeline: Goprivate change on EDOP CI/CD process
+- EPIC selection
+
+-
+
+## back up stories
+
+- 2372 Implement PHIzer for manage-acceptedinsurances
+- 2375 Implement PHIzer for manager-pat-prov-aggregator
+- any help?
+
+# long term
+
+- wiki
+- jira
+- draw.io for diagram
+- front-end setup
+- edop ci/cd pipeline
+
+-
 
 ## Personal
 
