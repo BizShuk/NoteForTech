@@ -2,7 +2,10 @@
 
 ## work
 
-- SmartStreet API product
+- find Artifactory user/pass
+- story拆解guideline
+- planning
+- golang transport
 
 ## Personal
 
