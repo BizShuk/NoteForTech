@@ -2,7 +2,6 @@
 
 - mural + epic analysis
 - story拆解guideline
-- check auth_secert
 - jira ticket resolved to done
 - golang transport
 - practice with tag
