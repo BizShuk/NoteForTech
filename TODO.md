@@ -1,27 +1,20 @@
 # Thing to be done
 
-- PingID by Jean
 - mural + epic analysis
 - story拆解guideline
+- check auth_secert
+- jira ticket resolved to done
 - golang transport
+- practice with tag
+-
+
+- Tue. Ben jira thing
 
 ## SOS
 
-- discussion about gitlab, EDOP CI/CD pipeline with Jack
-- Tasks ask
-  - pick up from backlog
-  - any assistance required - ask for whether others need help
-- [Jeffrey] two test and review
-- EPIC selection
-- gitlab permission
-
 ## back up stories
 
-- 2372 Implement PHIzer for manage-acceptedinsurances
-- 2375 Implement PHIzer for manager-pat-prov-aggregator
-- any help?
 - EDOP FOD
-- EDOP pipeline: Goprivate change on EDOP CI/CD process
 
 # long term
 
