@@ -1,18 +1,24 @@
 # TODO on Work
 
-- create rescope story
-- documenting my story
--
-- review meeting
--
-- smarty street
-- SmartyStreet MR submission
-- SmartyStreet API Product confirm with Stephen and Nathon
--
-- Generic elasticsearch repository
+- PI planning
+- Update Fortuna PI Spreadsheet
+
+### Pending
+
+- jimmy test and review - Pending
+- EDOP FOD CI/CD pipeline
+- Beck's MR
+
+### Ongoing
+
+- FOD upload - YT
+- Modification of ES integration - Eunice
+- EDOP CI/CD pipeline for go module - Jeffery
+- one test task - Beck
 
 ### pending knowledge from work
 
+- Generic elasticsearch repository
 - pingone IIQ integrated with system?
 - EDOP gitlab go through
 - project devops process check
