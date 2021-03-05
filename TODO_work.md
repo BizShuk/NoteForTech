@@ -29,6 +29,7 @@
 
 ### pending knowledge from work
 
+- Generic elasticsearch repository
 - pingone IIQ integrated with system?
 - project devops process check
 - react testing lib (react document, redux document, jest document)

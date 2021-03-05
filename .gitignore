@@ -1,10 +1,7 @@
 __debug_bin
-.vscode/launch.json
-
+.vscode/
 .DS_Store
-tmp/
 
+**/tmp/
 **/test/
 **/node_modules/
-
-test.js
