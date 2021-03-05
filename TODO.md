@@ -1,46 +1,40 @@
 # Thing to be done
 
-- mural + epic analysis
-- story拆解guideline
-- check auth_secert
-- jira ticket resolved to done
+## Pending
+
 - golang transport
-- practice with tag
--
-
-- Tue. Ben jira thing
-
-## SOS
-
-## back up stories
-
-- EDOP FOD
-
-# long term
-
-- wiki
-- jira
-- draw.io for diagram
-- front-end setup
-- edop ci/cd pipeline
-
-## Personal
-
 - Canada Work and Travel program
 - 備份google drive
 - 健保保險費
 - project, golang viper + networkmonitoring
 - 空氣瓶子上拍賣
-- 掛號超音波穿刺結果
 
-### Testing
+## Tasks
 
 - [setup] Artifactory
 - [setup] Confluence page
 - [setup] Jira
 - [up and running] ElasticSearch server測試
+- wiki
+  - how to draw frame
+  - how to draw a table
+  - how to highlight different frame
+  - check SPM
 
-### Application big topic
+- jira
+  - workstream
+  - seperate board in the same team
+  - how to check report
+  - how to manage epic
+  - what is spike
+  - how to produce workflow process
+  -
+- draw.io for diagram
+  - C4 diagram example
+- front-end setup
+- edop ci/cd pipeline
+
+### Big topics
 
 - book:Enterprise Integration Pattern
 - Apgee Authentication and Authorization
