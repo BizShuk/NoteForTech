@@ -2,9 +2,11 @@
 
 ## Pending
 
+- readout
+-
+- 備份google drive
 - golang transport
 - Canada Work and Travel program
-- 備份google drive
 - 健保保險費
 - project, golang viper + networkmonitoring
 - 空氣瓶子上拍賣
