@@ -2,8 +2,9 @@
 
 ## Pending
 
-- epic/story discussion with Jean
+- Readout => email for stories?
 - clean up git-repo vs artifactory
+- Ben for recording permission => Syney one
 
 ## Tracking
 
@@ -15,6 +16,10 @@
 ## SOS
 
 - how to do epic/task alignment down the road?
+- RT things with FOD => YT email
+- jira operation
+- k6 automation
+- auditing from CIH experience
 
 ## Sprint Demo
 
