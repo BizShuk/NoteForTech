@@ -2,20 +2,36 @@
 
 ## Pending
 
-- Readout => email for stories?
 - clean up git-repo vs artifactory
+
 - Ben for recording permission => Syney one
+- cloud watch metrix define
+  - request count
+  - max response time
+  - referral creation count
+  - service error count
+  - referral navigator loading time
+  - ci/cd failure count
+  - aws pinpoint message count
+
+  -
+
+## AWS Pinpoint
+
+- How does AWS Pinpoint track status of the result of messages?
+- Where is the trigger point? referral created, patient data updated, referral update? => resulting where the implementation should be, like manage-referrals or manage-patients.
+- Service or Lib
 
 ## Tracking
 
-- Jeffery MR -> document practice with tag
-- Jimmy test tasks -> documentID k6
-- YT MR -> 週ㄧ
-- Beck README.md+swagger document
+- Jeffery MR -> document practice with tag -> fix change and wait for review
+- Jimmy test tasks -> documentID k6 -> hand over to YT
+- YT MR -> 週ㄧ -> by Eunice
+- Beck README.md+swagger document MR -> US
+- EDOP FOD
 
 ## SOS
 
-- how to do epic/task alignment down the road?
 - RT things with FOD => YT email
 - jira operation
 - k6 automation
@@ -25,12 +41,6 @@
 
 - Change requirements during sprint
 - Merge Request issue
-
-## EPICs/Backlog
-
-- EDOP FOD
-- ElasticSearch Go module
-- User Role and Permission
 
 ### pending knowledge from work
 
