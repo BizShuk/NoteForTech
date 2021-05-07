@@ -2,10 +2,9 @@
 
 ## Today
 
-1. [] Review YT's MR
-
 - Update referral link info from Jack to team member
 - readout
+
 - email Unsubscribe API, how to connect without login => reachout Mark
 
 - [x] Update PI spreadsheet/jira
