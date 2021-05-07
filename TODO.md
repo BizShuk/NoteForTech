@@ -2,7 +2,7 @@
 
 ## Pending
 
-- readout
+- <https://github.com/gin-contrib/cors/blob/master/config.go>
 -
 - 備份google drive
 - golang transport
@@ -13,10 +13,6 @@
 
 ## Tasks
 
-- [setup] Artifactory
-- [setup] Confluence page
-- [setup] Jira
-- [up and running] ElasticSearch server測試
 - wiki
   - how to draw frame
   - how to draw a table
